@@ -65,7 +65,7 @@ export default {
   data() {
     return {
       saved: false,
-      modalSettings: {}, // добавил
+      modalSettings: {},
     };
   },
   methods: {
